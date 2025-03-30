@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "types": ["vuetify", "vite/client"]
+  },
+  "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.vue"]
+}
